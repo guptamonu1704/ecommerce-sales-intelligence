@@ -39,10 +39,76 @@ ecommerce-sales-intelligence/
 │   ├── 02_EDA.ipynb
 │   └── 03_Business_Insights.ipynb
 │
-├── Power BI/
-│   └── Ecommerce_Sales_Intelligence.pbix
-│
 ├── SQL/
 │   └── SQL analysis files
 │
+├── Power BI/
+│   └── Ecommerce_Sales_Intelligence.pbix
+│
 └── README.md
+🐍 Python Analysis
+
+The Python analysis covers:
+
+Data cleaning and preprocessing
+Data quality checks
+Exploratory Data Analysis (EDA)
+Sales and profitability analysis
+Customer and product analysis
+Business insight generation
+🗄️ SQL Analysis
+
+SQL is used to perform business-focused analysis such as:
+
+Revenue and profit analysis
+Category and sub-category performance
+Regional analysis
+Customer segment analysis
+Product performance
+Time-based sales analysis
+📈 Power BI Dashboard
+
+The Power BI dashboard provides an executive-level overview of e-commerce performance.
+
+Key KPIs
+Total Revenue
+Total Profit
+Profit Margin %
+Total Orders
+Return Rate %
+Dashboard Analysis
+Monthly Revenue & Profit Trend
+Revenue by Category
+Revenue by Region
+Top 5 Sub-Categories by Revenue
+Top 5 Products by Profit
+Customer Segment Performance
+Order Status Distribution
+Payment Method Distribution
+📂 Dataset
+
+Dataset: Global E-Commerce Sales Dataset | 2021–2024
+
+Author: Abdelfattah Ibrahim
+
+Source: Kaggle
+
+License: CC BY-SA 4.0
+
+The dataset is synthetically generated for educational and analytical practice and contains 10,000 e-commerce orders.
+
+Original Dataset:
+
+Global E-Commerce Sales Dataset | Kaggle
+
+⚠️ Dataset Disclaimer
+
+This dataset is synthetic and does not represent any real company, customer, or transaction.
+
+👩‍💻 Author
+
+Monika Gupta
+
+Statistics Postgraduate | Data Analyst
+
+Skills: Python | SQL | Power BI | Excel | Statistics
